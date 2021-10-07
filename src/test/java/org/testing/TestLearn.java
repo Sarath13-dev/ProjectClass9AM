@@ -15,6 +15,9 @@ public class TestLearn extends BaseClass {
 		System.out.println("test1 - @Test");
 		System.out.println("Maven learn");
 		System.out.println("java learn");
+		System.out.println("New joiner B");
+		System.out.println("new joiner work");
+
 	}
 	
 
