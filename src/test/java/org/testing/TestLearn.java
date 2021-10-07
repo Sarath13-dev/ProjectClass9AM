@@ -13,6 +13,8 @@ public class TestLearn extends BaseClass {
 	public void tc1() {
 		launchBrowser("https://en-gb.facebook.com/");
 		System.out.println("test1 - @Test");
+		System.out.println("Maven learn");
+		System.out.println("java learn");
 	}
 	
 
